@@ -1,0 +1,6 @@
+number,values_0,values_1,datetime_start,datetime_complete,duration,params_layer_0,params_layer_1,params_layer_10,params_layer_11,params_layer_12,params_layer_13,params_layer_14,params_layer_15,params_layer_16,params_layer_17,params_layer_18,params_layer_19,params_layer_2,params_layer_20,params_layer_21,params_layer_22,params_layer_23,params_layer_24,params_layer_25,params_layer_3,params_layer_4,params_layer_5,params_layer_6,params_layer_7,params_layer_8,params_layer_9,system_attrs_nsga2:generation,state
+0,0.4459271061541525,16.400390625,2024-08-07 03:07:53.709985,2024-08-07 03:07:53.709985,0 days 00:00:00,4,4,4,8,4,4,8,8,4,4,8,4,8,4,4,8,4,4,8,8,8,8,4,4,8,8,,COMPLETE
+1,0.445628360884286,17.365234375,2024-08-07 03:07:53.710749,2024-08-07 03:07:53.710749,0 days 00:00:00,4,4,8,8,8,8,8,8,4,4,8,8,8,8,8,4,4,4,4,4,8,8,4,8,8,4,,COMPLETE
+2,0.4469229237203744,14.849609375,2024-08-07 03:07:53.711391,2024-08-07 03:07:53.711391,0 days 00:00:00,4,4,4,4,4,4,4,8,4,4,4,4,4,8,4,4,4,4,8,8,4,4,4,4,8,8,,COMPLETE
+3,0.4470225054769966,18.47265625,2024-08-07 03:07:53.712006,2024-08-07 03:07:53.712006,0 days 00:00:00,8,8,8,8,4,8,8,8,8,4,8,8,8,8,8,4,8,8,4,8,8,4,4,4,8,8,,COMPLETE
+4,0.4466241784505079,15.966796875,2024-08-07 03:07:53.713696,2024-08-07 03:55:21.906809,0 days 00:47:28.193113,4,4,8,4,8,8,4,8,4,8,4,4,4,8,8,8,4,4,8,4,4,8,4,4,4,4,0.0,COMPLETE
