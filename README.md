@@ -77,4 +77,7 @@ for i in $(seq 1 50); do
 done
 ```
 
-Our Project get inspired from LLM-Pruner, and Optuna. 
+## Acknowledgements
+
+We gratefully acknowledge the use of the LLM-Pruner framework in the development of our project. This tool has significantly contributed to the efficiency and effectiveness of our model pruning processes. We also extend our thanks to Optuna for providing a robust and versatile platform for hyperparameter optimization, enabling us to achieve optimal model performance through systematic and automated tuning. The support and resources from both these projects have been invaluable to our research and development efforts.
+
