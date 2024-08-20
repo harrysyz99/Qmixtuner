@@ -1,4 +1,4 @@
-# Qmixtuner
+# AutoMixQ
 
 
 # README for Fine-Tuning Pruned Language Models
